@@ -1,4 +1,4 @@
 # Documentation (fichier readme)
-*  Installation
+* Installation
 *  Mise en place
 *  Commit
